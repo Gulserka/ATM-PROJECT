@@ -90,7 +90,6 @@ public class Account {
     }
 
 
-//Bu arada bunlari private yapmamizin bir digeri sebebi bu bilgileri baska classta cagirmaya gerek duymuyoruz.
 
 
     //Musteri ile para cekmek icin etkilesime gecelim: checking hesap
